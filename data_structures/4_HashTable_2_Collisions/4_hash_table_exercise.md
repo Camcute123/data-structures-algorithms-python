@@ -5,7 +5,11 @@
     1. What was the maximum temperature in first 10 days of Jan
 
 Figure out data structure that is best for this problem
-
+```
+ 'diverged': 2,
+ 'in': 3,
+ 'I': 8
+```
 [Solution](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/4_HashTable_2_Collisions/Solution/weather_analysis.ipynb)
 
 2. [nyc_weather.csv](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/4_HashTable_2_Collisions/Solution/nyc_weather.csv) contains new york city weather for first few days in the month of January. Write a program that can answer following,
